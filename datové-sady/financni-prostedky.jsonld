@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/lukjuna/lkod-min/main/datové-sady/financni_prostredky.jsonld",
+  "iri": "https://raw.githubusercontent.com/lukjuna/lkod-min/main/datové-sady/financni-prostredky.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Informace o poskytnutých finančních prostředcích"
@@ -39,7 +39,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/lukjuna/lkod-min/main/datové-sady/financni_prostredky.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/lukjuna/lkod-min/main/datové-sady/financni-prostredky.jsonld/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
